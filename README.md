@@ -83,9 +83,9 @@ The analysis was performed using three key datasets:
 
 ## 👨‍💼 Project Team
 
-- **Andrew Fleming** – Chief Technical Architect  
-- **Marcus Rompton** – Senior Principal  
-- **Kunal Naykode** – Data Analyst Intern *(My Self)*
+- **Andrew Fleming** – Chief Technical Architect at Accenture
+- **Marcus Rompton** – Senior Principal at Accenture
+- **Kunal Naykode** – Data Analyst Intern *(My Self)* at Accenture
 
 ---
 
